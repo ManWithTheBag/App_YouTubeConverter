@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size_tittle">50dp</dimen>
+    <dimen name="font_size_middle">20dp</dimen>
+    <dimen name="font_size_small">16dp</dimen>
+</resources>

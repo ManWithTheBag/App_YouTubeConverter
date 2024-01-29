@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YouTube Converter</string>
+    <string name="logo_text">YouTubeConverter</string>
+    <string name="input_url_hint">Paste URL here</string>
+    <string name="input_request">Request</string>
+    <string name="privacy_terms"><a href="https://video-audio-converter.org/terms-of-service">Terms of Service</a></string>
+    <string name="privacy_policy"><a href="https://video-audio-converter.org/privacy-policy">Privacy Policy</a></string>
+
+    <string name="frame_button_download">Download</string>
+    <string name="uncorrect_url">Uncorrect url, try again</string>
+</resources>
